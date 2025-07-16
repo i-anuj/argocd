@@ -25,6 +25,9 @@ Create a token for dashboard access:
 
 kubectl -n kubernetes-dashboard create token admin-user
 
+<img width="1874" height="1007" alt="image" src="https://github.com/user-attachments/assets/08cdea6a-5a76-4be3-a57c-df656de707b6" />
 
-<img width="1161" height="485" alt="image" src="https://github.com/user-attachments/assets/fb604129-59ce-429b-9880-51232ea30fa3" />
+
+<img width="1852" height="1013" alt="image" src="https://github.com/user-attachments/assets/15e9fa56-4019-4631-afe9-8039dba97516" />
+
 
