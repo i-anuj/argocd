@@ -24,3 +24,7 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/a
 Create a token for dashboard access:
 
 kubectl -n kubernetes-dashboard create token admin-user
+
+
+<img width="1161" height="485" alt="image" src="https://github.com/user-attachments/assets/fb604129-59ce-429b-9880-51232ea30fa3" />
+
